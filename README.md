@@ -1,4 +1,5 @@
-# Project readme
+# Mako-IoT.Device.Displays.Led
+Contains useful functions for driving LEDs, like soft blink and RGB transition.
 
 ## How to manually sync fork
 - Clone repository and navigate into folder
